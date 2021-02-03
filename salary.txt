@@ -1,0 +1,5 @@
+Vasiliy: 40000
+Jonh: 15000
+Rus: 35000
+Den: 60000
+Alex: 14000
